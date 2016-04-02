@@ -25,5 +25,3 @@ Content-Type: text/html
     
 connection.close()
 s.close()
-
-
